@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @jhanca27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in development backend and frontend
+- 🌱 I’m currently learning ruby on rails, java, python.
 
-<!---
-jhanca27/jhanca27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+you can see main repositories,I use html, css , python and ruby on rails
