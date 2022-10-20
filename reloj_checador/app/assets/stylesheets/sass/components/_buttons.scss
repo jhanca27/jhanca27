@@ -1,0 +1,36 @@
+.button_header {
+  background: $blue;
+  border-radius: 11px;
+  color: $white;
+  font-family: "Inter";
+  font-size: 1.3rem;
+  height: 60px;
+  position: absolute;
+  text-align: center;
+  top: 65px;
+  width: 178px;
+}
+
+.button_e {
+  background: $blue;
+  border-radius: 10px;
+  color: $white;
+  font-family: "Inter";
+  font-size: 15px;
+}
+
+.new_Employees {
+  margin-left: 46%;
+}
+
+.button_login {
+  left: 1000px;
+}
+
+.button_admin {
+  left: 700px;
+}
+
+.button_off {
+  left: 900px;
+}
